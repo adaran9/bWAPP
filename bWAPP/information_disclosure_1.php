@@ -27,7 +27,6 @@ switch($_COOKIE["security_level"])
         
     case "0" : 
             
-        break;
         
     case "1" :
             
